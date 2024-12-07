@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "German Shepherd"
+  },
+  "name": "Frederick",
+  "photoUrls": [
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGerman_Shepherd&psig=AOvVaw0ki32mYeSR26TmFz1gap_0&ust=1733622025028000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCNiC54XElIoDFQAAAAAdAAAAABAE"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Frederick"
+    }
+  ],
+  "status": "available"
+}
