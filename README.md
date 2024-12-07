@@ -17,3 +17,7 @@ The main idea we design the tests
 2. collect the result
 3. verify the result follows the swagger schema by a util function `checkSchema`
 4. verify the fields are carrying correct value
+
+
+## Exception
+When the pet id returned by Swagger reach Long.Max which is 9223372036854775807, some test will fail
