@@ -12,7 +12,7 @@ The source code were divided into 3 Java file:
 
 Test resources are under `src/test/resource`
 
-The main idea we design the tests
+The main idea designing the tests
 1. execute api access
 2. collect the result
 3. verify the result follows the swagger schema by a util function `checkSchema`
@@ -20,4 +20,4 @@ The main idea we design the tests
 
 
 ## Exception
-When the pet id returned by Swagger reach Long.Max which is 9223372036854775807, some test will fail
+When the pet id returned by Swagger reaches Long.Max which is 9223372036854775807, some test will fail
